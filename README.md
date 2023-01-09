@@ -87,6 +87,11 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=faisal-mahamud&&style=flat-square" align="center" />
+</div>  
+  
+
 
 ## Connect with me  
 <div align="center">
@@ -123,10 +128,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=faisal-mahamud&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
