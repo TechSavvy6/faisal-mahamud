@@ -135,7 +135,15 @@
 <br/>  
 
 <div align="center"></div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal-mahamud&show_icons=true&locale=en&layout=compact" alt="faisal-mahamud" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal-mahamud&show_icons=true&locale=en" alt="faisal-mahamud" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-mahamud&" alt="faisal-mahamud" /></p>
 <br />
+
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
