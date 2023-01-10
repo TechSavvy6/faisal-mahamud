@@ -134,3 +134,6 @@ I am a professional web developer and I develop and design websites in every cat
 
 
 ----
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisal-mahamud" alt="faisal-mahamud" /></a> </p>
+
