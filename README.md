@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm MD Faisal Mahamud</h1>
-<h3 align="center">Front-End Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-mahamud&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-mahamud" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisal-mahamud" alt="faisal-mahamud" /></a> </p>
-
-
-
-### Front-End Developer  
 # Hi There,
 
 I am a professional web developer and I develop and design websites in every category. I develop and design websites using my technical skills.  
@@ -138,6 +129,11 @@ I am a professional web developer and I develop and design websites in every cat
 
 <div align="center"></div>
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-mahamud&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-mahamud" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisal-mahamud" alt="faisal-mahamud" /></a> </p>
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
