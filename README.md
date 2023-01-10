@@ -130,7 +130,7 @@ I am a professional web developer and I develop and design websites in every cat
 <div align="center"></div>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-mahamud&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-mahamud" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisal-mahamud" alt="faisal-mahamud" /></a> </p>
 
