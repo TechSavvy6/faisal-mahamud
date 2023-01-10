@@ -137,4 +137,3 @@ I am a professional web developer and I develop and design websites in every cat
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
