@@ -1,5 +1,4 @@
 
-https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg?w=740
 
 
 
